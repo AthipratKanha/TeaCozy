@@ -1,1 +1,0 @@
-https://teacozyauto.netlify.app/
